@@ -40,3 +40,4 @@ result = get_result(users_pick, computer_pick)
 print(f"Computer's pick: {computer_pick}")
 print(f"Your pick: {users_pick}")
 print(f"You {result}")
+#this is the game
